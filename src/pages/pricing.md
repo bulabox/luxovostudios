@@ -19,8 +19,8 @@ sections:
     - label: Order Now
       url: "/seo-site-optimization"
     highlight: false
-  - title: Professional
-    price: "$49/m"
+  - title: Professional SEO
+    price: "$600/m"
     details: |-
       * Curabitur non nunc mollis
       * Duis a purus nec ligula
