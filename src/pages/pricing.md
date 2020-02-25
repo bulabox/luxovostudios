@@ -8,15 +8,6 @@ sections:
   subtitle: You can have a separate pricing page or list everything on the home page.
   bg: gray
   pricingplans:
-  - title: Beginner SEO
-    price: "199.95"
-    details: |2-
-          <button class="snipcart-add-item"
-          data-item-id="BeginnerSEO"
-          data-item-price="199.95"
-          data-item-url="https://luxovostudios-43b14.netlify.com/pricing/" data-item-description="Beginner SEO Site Optimization" data-item-image="" data-item-name="BeginnerSEO"> Add to cart </button>
-    highlight: true
-    actions: []
   - title: Basic SEO
     price: "$199.95/m"
     details: |-
