@@ -17,8 +17,8 @@ sections:
           data-item-url="https://luxovostudios-43b14.netlify.com/pricing/" data-item-description="Beginner SEO Site Optimization" data-item-image="" data-item-name="BeginnerSEO"> Add to cart </button>
     highlight: true
     actions: []
-  - title: Basic
-    price: "$5/m"
+  - title: Basic SEO
+    price: "$199.95/m"
     details: |-
       * Lorem ipsum dolor sit amet
       * Mauris a mi tincidunt
