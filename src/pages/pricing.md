@@ -31,7 +31,7 @@ sections:
     actions:
     - label: Order Now
       url: "/signup"
-  - title: Enterprise
+  - title: Enterprise SEO
     price: "$1200/m"
     details: |-
       * Vestibulum non eros quis
