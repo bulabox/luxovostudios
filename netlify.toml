@@ -11,6 +11,6 @@ command = "./stackbit-build.sh"
 
 [[headers]]
   # Define which paths this specific [[headers]] block will cover.
-  for = "/*"
+  for = "https://luxovostudios.com/*"
     [headers.values]
-    Access-Control-Allow-Origin = "https://app.snipcart.com/api/sessions"
+    Access-Control-Allow-Origin = "https://app.snipcart.com"
