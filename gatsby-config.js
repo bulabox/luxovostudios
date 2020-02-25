@@ -25,6 +25,12 @@ module.exports = {
             }
         },
         {
+			resolve: 'gatsby-plugin-snipcartv3',
+			options: {
+				apiKey: 'S_ZmU5ZjY3ZWUtMjE0Yi00YjM1LWI5NzUtZTMzMTlmN2ExMzY4NjM3MTgxODY0ODQ3NDk4MDE4'
+			}
+		},
+        {
             resolve: `gatsby-remark-page-creator`,
             options: {
                 
