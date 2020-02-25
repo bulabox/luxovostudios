@@ -32,7 +32,7 @@ sections:
     - label: Order Now
       url: "/signup"
   - title: Enterprise
-    price: "$149/m"
+    price: "$1200/m"
     details: |-
       * Vestibulum non eros quis
       * Aenean iaculis lorem
