@@ -26,7 +26,7 @@ sections:
       * Etiam eget dui a augue
     actions:
     - label: Order Now
-      url: "/signup"
+      url: "/seo-site-optimization"
     highlight: false
   - title: Professional
     price: "$49/m"
