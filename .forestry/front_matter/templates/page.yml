@@ -25,6 +25,5 @@ fields:
     required: true
 pages:
 - src/pages/about.md
-- src/pages/seo-optimization-beginner-teir.md
 - src/pages/signup.md
 - src/pages/style-guide.md
