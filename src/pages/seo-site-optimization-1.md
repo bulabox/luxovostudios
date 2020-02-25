@@ -1,6 +1,6 @@
 ---
 template: page
-title: 'SEO Expert '
+title: SEO Expert
 subtitle: SEO Expert  Optimization through Google
 img_path: ''
 
