@@ -30,7 +30,7 @@ sections:
     highlight: true
     actions:
     - label: Order Now
-      url: "/signup"
+      url: "/SEO-Expert "
   - title: Enterprise SEO
     price: "$1200/m"
     details: |-
